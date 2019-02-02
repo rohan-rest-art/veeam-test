@@ -22,3 +22,11 @@
 
 
 Прикрепленные файлы:
+
+![alt text][sketch]
+
+[sketch]: https://raw.githubusercontent.com/rohan-rest-art/veeam-test/master/markdown/sketch.png "Sketch"
+
+![alt text][sketch2]
+
+[sketch2]: https://raw.githubusercontent.com/rohan-rest-art/veeam-test/master/markdown/sketch2.png "Sketch 2"
