@@ -1,0 +1,16 @@
+.root {
+  padding: 20px;
+  width: 600px;
+  border: 2px solid grey;
+}
+.buttonsColumn {
+  text-align: right;
+
+  > * {
+    margin-left: 10px;
+  }
+}
+.noData {
+  font-size: 0.9em;
+  color: #999999;
+}
